@@ -263,7 +263,7 @@ h3{
 }
 
 
-@media (max-width:375px){
+@media (max-width:768px){
     *{
         box-sizing: border-box;
     }
